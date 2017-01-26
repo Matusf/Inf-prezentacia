@@ -1,0 +1,2 @@
+# Inf-prezentacia
+MicroPython snippets
