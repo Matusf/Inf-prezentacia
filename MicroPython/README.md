@@ -3,6 +3,8 @@
 * Programované pre dosku NodeMcu
 * Pri zapájaní odporúčam používať ťahák
 
+![Ťahák](https://raw.githubusercontent.com/Matusf/Informatika/master/MicroPython/tahak.png)
+
 
 ## Užitočné odkazy
 * [Slovenská dokumentácia MicroPythonu](http://micropython.sk/)
