@@ -6,8 +6,9 @@ Na vstupe dostanete neorientovaný graf, nie nutne spojitý. Program má za úlo
 0 < *m n* < 10 000
 0 < *a b* <= n
 
-#### Vstupy
-'''
+###### Vstupy
+
+```
 6 9
 1 2
 1 3
@@ -15,7 +16,6 @@ Na vstupe dostanete neorientovaný graf, nie nutne spojitý. Program má za úlo
 5 6
 7 8
 8 9
-
 >>> 3
 
 7 10
@@ -26,11 +26,16 @@ Na vstupe dostanete neorientovaný graf, nie nutne spojitý. Program má za úlo
 6 7
 8 9
 10 10
-
 >>> 4
-'''
-
+```
 
 
 ### Bináre vyhľadávanie
-V <a href="binary_search.txt">súbore</a> je na prvom riadku postupnosť čísel. Na ďalších riadkoch sú čísla, o ktorých má procgram povedať, či sa v postupnosti nachádzajú. Ak áno, vypíše index čísla ak nie, vypíše -1.
+V <a href="binary_search.txt">súbore</a> je na prvom riadku postupnosť čísel. Na ďalších riadkoch sú čísla, o ktorých má program povedať, či sa v postupnosti nachádzajú. Ak áno, vypíše index čísla ak nie, vypíše -1.
+
+
+### Fibonacciho postupnosť
+V <a href="fibonacci.txt">súbore</a> sa na každom riadku nachádza číslo *n*. Nech program vypíše *n-tý* člen Fibonacciho postupnosti.
+
+##### BONUS
+Upravte program na vyhľadávanie *n-tého* člena Fibonacciho postupnosti tak aby sme nemuseli používať rekurziu
